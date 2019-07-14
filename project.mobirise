@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#2969b0",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -19,7 +19,8 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
@@ -28,7 +29,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -270,9 +271,9 @@
               "size": 0
             }
           },
-          "text1": "<b>© 2019-2020 &nbsp;<br>All Rights Reserved \n<br>Beyond The Box R&amp;D, Inc</b> \n<br><br>Registered at the Department of State in New York State under ID #5345948\n<br>\n<br>Our customer number at the United States Patent and Trademark Office is #000162504<br><br>Our customer number at the United States Copyright\nOffice is #1-4356531350<br>",
-          "text2": "<strong>Contacts</strong><br>Beyond The Box R&amp;D, Inc \n<br>175 Varick St. [WeWork] \n<br>New York, NY 10014 <br><br>Email: <b>contactbeyondthebox@gmail.com</b><br><br>Phone: <br>\"Please. only Text the Founder\"<br>at&nbsp;<b>+ 1 (347) 383-4942<br></b><br><b>For meetings</b>, please email us in advance to book a meeting room at 175 Varick St., New York City.<br>",
-          "text3": "<b>Go big or go home! \n<br></b>\n<br>\"For such a tiny company like us, picking the motto of \"go big or go home\" is definitely a gamble, but we will continue to invent the next big thing, no matter how much of an uphill battle is it\"<br><br>The Company Website:<br><b>www.beyondtheboxinc.com</b><br>",
+          "text1": "<b>© 2019-2020 &nbsp;<br>All Rights Reserved \n<br>Beyond The Box R&amp;D, Inc</b> \n<br><br>Registered at the Department of State in New York State under ID #5345948\n<br>\n<br>Our customer number at the United States Patent and Trademark Office is #000162504<br><br>Our customer number at the United States Copyright\nOffice is #1-356531350<br>",
+          "text2": "<b>Contacts\n</b><br>\n<br>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001 \n<br>\n<br>Email: <a href=\"mailto:contactbeyondthebox@gmail.com\">contact@beyondtheboxinc.com\n</a><br>\n<br>Phone: +&nbsp;1 (347) 383-4942\n<br>\"Please! Only text for a call back\"<br><br>For meetings, please email us in advance to book a meeting room at 106 W 32nd St, New York, NY 10001.<br>",
+          "text3": "<b>Go big or go home! \n<br></b>\n<br>\"For such a tiny company like us, picking the motto of \"go big or go home\" is definitely a gamble, but we will continue to invent the next big thing, no matter how much of an uphill battle is it\"<br><br>The Company Website:<br><a href=\"https://beyondtheboxinc.com\" target=\"_blank\">www.beyondtheboxinc.com</a><br>",
           "_tags": [
             "Theme"
           ],
@@ -285,7 +286,7 @@
               "color": "#28324e"
             }
           },
-          "_anchor": "contacts1-a"
+          "_anchor": "contacts1-c"
         },
         {
           "_styles": {
